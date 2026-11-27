@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dev-dist/
+shots/
+export-test.json
+*.local
+.DS_Store
+Thumbs.db
